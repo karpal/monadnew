@@ -7,7 +7,7 @@ cd monadnew
 ```
 ```bash
 npm init -y
-npm install ethers solc dotenv readline chalk figlet
+npm install ethers solc dotenv chalk figlet
 ```
 masukkan PK
 ```bash
