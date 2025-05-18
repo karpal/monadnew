@@ -1,0 +1,16 @@
+{
+  "name": "gmonad-deployer",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Lightweight multi-account contract deployer",
+  "scripts": {
+    "start": "node --max-old-space-size=512 deploy.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.0",
+    "dotenv": "^16.4.0",
+    "ethers": "^6.10.0",
+    "figlet": "^1.6.0",
+    "solc": "^0.8.24"
+  }
+}
